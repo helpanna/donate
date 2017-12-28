@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Please Donate and support me
 
-You can use the [editor on GitHub](https://github.com/helpanna/donate/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Dear kind people, 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm graduated RN, it's been tough for me for the last few years to get the job I have skills for. Currently struggling with student debt, rent and helping sick father, his glaucoma got a lot worse and he can't work anymore. I have 2 part time jobs (yes I try hard), but they just dont pay :( I've developed depression on top of all.. Going crazy with all this... Please help me to get out of this. 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1DNoA7Ne2WaihQ2waYyhBRPf3o15VrQM2a Any help would really appreciated.
 
-```markdown
-Syntax highlighted code block
+I do really hope for your kindness and huge heart thank you so much!
 
-# Header 1
-## Header 2
-### Header 3
+### Donation
 
-- Bulleted
-- List
+**BTC** Wallet ***1DNoA7Ne2WaihQ2waYyhBRPf3o15VrQM2a***
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/helpanna/donate/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
